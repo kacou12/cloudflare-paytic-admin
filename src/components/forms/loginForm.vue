@@ -65,10 +65,6 @@ const rememberMe = ref(false)
 const password = ref(import.meta.env.PROD ? '' : 'Qwertyuiop0');
 const email = ref(import.meta.env.PROD ? '' : 'kacou10@gmail.com');
 
-
-
-
-
 const route = useRoute();
 const router = useRouter();
 const { setUser } = useAuthStore();
