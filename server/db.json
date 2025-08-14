@@ -1,0 +1,211 @@
+{
+  "admins": {
+    "code": 200,
+    "msg": "Admin successfully retrieved",
+    "data": {
+      "data": [
+        {
+          "id": "1",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Jean",
+          "lastName": "Dupont",
+          "email": "jean.dupont@example.com",
+          "role": "SUPER_ADMIN",
+          "phoneNumber": "+33123456789",
+          "isActive": true
+        },
+        {
+          "id": "2",
+          "profilePhoto": "https://picsum.photos/300/300",
+          "firstName": "Marie",
+          "lastName": "Curie",
+          "email": "marie.curie@example.com",
+          "role": "ADMIN",
+          "phoneNumber": "+33123456790",
+          "isActive": true
+        },
+        {
+          "id": "3",
+          "profilePhoto": "https://picsum.photos/400/300",
+          "firstName": "Pierre",
+          "lastName": "Martin",
+          "email": "pierre.martin@example.com",
+          "role": "EDITOR",
+          "phoneNumber": "+33123456791",
+          "isActive": false
+        },
+        {
+          "id": "4",
+          "profilePhoto": "https://picsum.photos/250/500",
+          "firstName": "Sophie",
+          "lastName": "Leroy",
+          "email": "sophie.leroy@example.com",
+          "role": "VIEWER",
+          "phoneNumber": "+33123456792",
+          "isActive": false
+        },
+        {
+          "id": "5",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Luc",
+          "lastName": "Bernard",
+          "email": "luc.bernard@example.com",
+          "role": "ADMIN",
+          "phoneNumber": "+33123456793",
+          "isActive": false
+        },
+        {
+          "id": "6",
+          "profilePhoto": "https://picsum.photos/400/300",
+          "firstName": "Émilie",
+          "lastName": "Petit",
+          "email": "emilie.petit@example.com",
+          "role": "EDITOR",
+          "phoneNumber": "+33123456794",
+          "isActive": false
+        },
+        {
+          "id": "7",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Thomas",
+          "lastName": "Moreau",
+          "email": "thomas.moreau@example.com",
+          "role": "VIEWER",
+          "phoneNumber": "+33123456795",
+          "isActive": false
+        },
+        {
+          "id": "8",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Camille",
+          "lastName": "Dubois",
+          "email": "camille.dubois@example.com",
+          "role": "SUPER_ADMIN",
+          "phoneNumber": "+33123456796",
+          "isActive": false
+        },
+        {
+          "id": "9",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Nicolas",
+          "lastName": "Lefevre",
+          "email": "nicolas.lefevre@example.com",
+          "role": "ADMIN",
+          "phoneNumber": "+33123456797",
+          "isActive": false
+        },
+        {
+          "id": "10",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Isabelle",
+          "lastName": "Roux",
+          "email": "isabelle.roux@example.com",
+          "role": "EDITOR",
+          "phoneNumber": "+33123456798",
+          "isActive": false
+        },
+        {
+          "id": "11",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Antoine",
+          "lastName": "Girard",
+          "email": "antoine.girard@example.com",
+          "role": "VIEWER",
+          "phoneNumber": "+33123456799",
+          "isActive": false
+        },
+        {
+          "id": "12",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Valérie",
+          "lastName": "Fournier",
+          "email": "valerie.fournier@example.com",
+          "role": "SUPER_ADMIN",
+          "phoneNumber": "+33123456800",
+          "isActive": false
+        },
+        {
+          "id": "13",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Guillaume",
+          "lastName": "Lemoine",
+          "email": "guillaume.lemoine@example.com",
+          "role": "ADMIN",
+          "phoneNumber": "+33123456801",
+          "isActive": false
+        },
+        {
+          "id": "14",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Céline",
+          "lastName": "Sanchez",
+          "email": "celine.sanchez@example.com",
+          "role": "EDITOR",
+          "phoneNumber": "+33123456802",
+          "isActive": false
+        },
+        {
+          "id": "15",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "David",
+          "lastName": "Nguyen",
+          "email": "david.nguyen@example.com",
+          "role": "VIEWER",
+          "phoneNumber": "+33123456803",
+          "isActive": false
+        },
+        {
+          "id": "16",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Sandrine",
+          "lastName": "Legrand",
+          "email": "sandrine.legrand@example.com",
+          "role": "SUPER_ADMIN",
+          "phoneNumber": "+33123456804",
+          "isActive": false
+        },
+        {
+          "id": "17",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Olivier",
+          "lastName": "Rousseau",
+          "email": "olivier.rousseau@example.com",
+          "role": "ADMIN",
+          "phoneNumber": "+33123456805",
+          "isActive": false
+        },
+        {
+          "id": "18",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Caroline",
+          "lastName": "Dumont",
+          "email": "caroline.dumont@example.com",
+          "role": "EDITOR",
+          "phoneNumber": "+33123456806",
+          "isActive": false
+        },
+        {
+          "id": "19",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Julien",
+          "lastName": "Chevalier",
+          "email": "julien.chevalier@example.com",
+          "role": "VIEWER",
+          "phoneNumber": "+33123456807",
+          "isActive": false
+        },
+        {
+          "id": "20",
+          "profilePhoto": "https://picsum.photos/200/300",
+          "firstName": "Aurélie",
+          "lastName": "Colin",
+          "email": "aurelie.colin@example.com",
+          "role": "SUPER_ADMIN",
+          "phoneNumber": "+33123456808",
+          "isActive": false
+        }
+      ],
+      "hasNext": true
+    }
+  }
+}
