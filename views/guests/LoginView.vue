@@ -10,8 +10,6 @@
         <p class="text-neutral-20 mb-8">
           Bienvenue à nouveau ! Veuillez saisir vos coordonnées.
         </p>
-
-
         <LoginForm>
 
         </LoginForm>
